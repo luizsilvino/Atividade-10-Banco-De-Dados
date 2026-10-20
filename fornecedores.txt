@@ -1,0 +1,12 @@
+
+id;nome;contato;telefone;ativo
+1;Aerometalúrgica do Sudeste;João Silva;(11) 9999-9999;1
+2;Titânio do Brasil;Maria Souza;(21) 3333-3333;1
+3;Fixadores Industriais;Pedro Santos;(31) 2222-2222;1
+4;Condutor Elétrico;Ana Oliveira;(41) 5555-5555;1
+5;Rebites e Fixadores;Carlos Rodrigues;(19) 8888-8888;1
+6;Fibra & Carbono Technology;Juliana Almeida;(11) 4444-4444;1
+7;Epoxi & Compostos;Roberto Mendes;(27) 7777-7777;1
+8;Fibra de Vidro do Brasil;Fernanda Costa;(48) 6666-6666;1
+9;Tintas Aeronáuticas;Marcelo Santos;(11) 2222-2222;1
+10;Adesivos Especiais;Patricia Lima;(47) 9999-9999;1

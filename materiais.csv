@@ -1,0 +1,12 @@
+
+id;nome;descricao;medida;estoque_minimo;ativo
+1;Chapa de alumínio;Chapa de alumínio de liga 6061-T6;m²;100;1
+2;Tubo de titânio;Tubo de titânio grau 5;m;50;1
+3;Parafuso de aço inoxidável;Parafuso de aço inoxidável AISI 316;unidade;200;1
+4;Fio de cobre;Fio de cobre esmaltado;m;150;1
+5;Rebite de alumínio;Rebite de alumínio sólido;unidade;300;1
+6;Chapa de fibra de carbono;Chapa de fibra de carbono pré-impregnada;m²;80;1
+7;Resina epóxi;Resina epóxi para laminação;kg;40;1
+8;Tecido de fibra de vidro;Tecido de fibra de vidro para laminação;m²;120;1
+9;Pintura poliuretânica;Pintura poliuretânica para aeronaves;l;30;1
+10;Adesivo estrutural;Adesivo estrutural de alta resistência;kg;25;1
